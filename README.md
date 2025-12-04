@@ -36,8 +36,6 @@
 - **Networking**: `http`
 - **UI**: `fl_chart`, `glass_kit`, `google_fonts`
 
-## 📸 Screenshots
-*(Add your screenshots here)*
 
 ## 🚀 Getting Started
 
