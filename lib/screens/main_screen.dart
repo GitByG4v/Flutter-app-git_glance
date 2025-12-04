@@ -32,7 +32,7 @@ class _MainScreenState extends State<MainScreen> {
       ),
       bottomNavigationBar: SafeArea(
         child: Padding(
-          padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
+          padding: const EdgeInsets.fromLTRB(16, 0, 16, 30),
           child: GlassContainer(
             borderRadius: BorderRadius.circular(30),
             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 8),
